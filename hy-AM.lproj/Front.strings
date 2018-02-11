@@ -1,0 +1,132 @@
+/*
+  Front.strings
+  Typora
+
+ by hi@typora.io
+*/
+
+/* Common */
+"OK" = "OK";
+"Cancel" = "Չեղարկել";
+"Yes" = "Այո";
+"No" = "Ոչ";
+"Close" = "Փակել";
+"Select" = "Ընտրել";
+"Continue" = "Շարունակել";
+"Learn More…" = "Իմանալ ավելին";
+"Untitled" = "Անվերնագիր";
+"Undo" = "Ետ շրջել";
+"Dismiss" = "Հեռացնել";
+"Confirm" = "Հաստատել";
+"Error" = "Սխալ";
+
+/* Search Panel */
+"Search" = "Որոնել";
+"Replace" = "Փոխարինել";
+"All" = "Բոլորը";
+"Search text not found in article" = "Որոնվող տեքստ այս էջում չի գտնվել";
+"search text" = "որոնվող տեքստը";
+
+/* Quick Open */
+"Search by file name" = "Փնտրել ըստ ֆայլի անվան";
+"Searching" = "Որոնում";
+"Gathering more results" = "Ցուցադրել ավելի շատ արդյունքներ";
+
+/* Tables */
+"Insert Table" = "Ավելացնել աղյուսակ";
+"Columns" = "Սյունակներ";
+"Rows" = "Տողեր";
+"Align Left" = "Հավասարեցնել ձախ";
+"Align Center" = "Հավասարեցնել մեջտեղում";
+"Align Right" = "Հավասարեցնել աջ";
+"Resize Table" = "Փոխել աղյուսակի չափսը";
+"Delete Table" = "Ջնջել աղյուսակը";
+
+/* Images */
+"Copy Image To..." = "Կրկնօրինակել նկարը…";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?";
+"Create Folder" = "Create Folder";
+
+/* Math */
+"Edit" = "Խմբագրել";
+"Delete Math" = "Ջնջել մաթեմատիկան";
+"Preview" = "Նախադիտում";
+
+/* Sidebar */
+"Articles" = "Էջեր";
+"Outline" = "Կառուցվածք";
+"Files" = "Ֆայլեր";
+"Switch to File List view" = "Ցուցադրել ֆայլերի ցուցակը";
+"Switch to File Tree view" = "Ցուցադրել ֆայլերի ծառը";
+"Switch to Outline view" = "Ցուցադրել էջի կառուցվածքը";
+"Close sidebar" = "Փակել ձախ վահանակը";
+"Loading" = "Ներբեռնվում է";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
+"New File" = "Նոր ֆայլ";
+"Unpin Outline Panel" = "Առանձնացնել կառուցվածքի վահանակը";
+"Open Folder..." = "Բացել թղթապանակը...";
+"Action" = "Գործողություն";
+"Close Sidebar Menu" = "Փակել ձախ վահանակի մենյուն";
+"Reveal in Finder" = "Գտնել ֆայլը համակարգչում";
+"Reveal in File Explorer" = "Գտնել ֆայլը համակարգչում";
+"Refresh Folder" = "Թարմեցնել թղթապանակը";
+"Sort" = "Դասավորել";
+"Group By Folder" = "Խմբավորել ըստ թղթապանակի";
+"Sort Naturally" = "Խմբավորել ըստ հերթականության";
+"Sort by Name" = "Խմբավորել ըատ վերնագրի";
+"Sort by Modification Date" = "Խմբավորել ըստ խմբագրման ամսաթվի";
+"Recent Locations" = "Վերջերս բացած թղթապանակները";
+"Location" = "Տեղը";
+"Switch File List/Tree View" = "Ցուցադրել էջերի ցուցակը կամ ֆայլերի ծառը";
+"No Files Available" = "Ստեղծված ֆայլեր առայժմ չկան։";
+"No Folder is Opened." = "Որևէ թղթապանակ բացված չէ։";
+"Outline is Empty." = "Այս էջը դեռ չունի կառուցվածք։";
+
+/* Status Bar */
+"Toggle Sidebar" = "Բացել կամ փակել ձախ վահանակը";
+"Toggle Source Code Mode" = "Անջատել կամ միացնել կոդավորման ռեժիմը";
+"Exit Source Code Mode" = "Փակել կոդավորման ռեժիմը";
+
+"Table of Contents" = "Բովանդակույթուն";
+"Empty Diagram" = "Դատարկ դիագրամ";
+"Input Math TeX here" = "Ավելացնել այստեղ Math TeX";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Please define image reference by \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "Failed to create file";
+"Failed to create folder" = "Failed to create folder";
+"Failed to rename file" = "Failed to rename file";
+"Folder does not exist at %@" = "Folder does not exist at %@";
+"File with the same name already exists at target path" = "File with the same name already exists at target path";
+"Apply to All" = "Apply to All";
+"Overwrite" = "Overwrite";
+"Stop" = "Stop";
+"back to document" = "back to document";
+"Failed to load file" = "Failed to load file";
+"Save File Failed!" = "Save File Failed!"
+"Cannot open folder {0}" = "Cannot open folder {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "File content is changed by external applications. Reload content from disk ?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Should continue moving and overwrite exisiting file(s) ?";
+
+"Rename Failed" = "Rename Failed";
+"Rename to \"{0}\" ?" = "Rename to \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Failed to rename from \"{0}\" to \"{1}\"";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "Successfully uploaded {0} images.";
+"Failed to upload image. Error Message:" = "Failed to upload image. Error Message:";
+"Failed to Copy Image to Target Folder." = "Failed to Copy Image to Target Folder.";
+"Select Container Folder" = "Select Container Folder";
+
+"Saved" = "Saved";
+
+/* place holder in find & replace input */
+"search text" = "search text";
+"replace with" = "replace with";
+/* search option */
+"Case Sensitive" = "Case Sensitive";
+"Whole Word" = "Whole Word";
